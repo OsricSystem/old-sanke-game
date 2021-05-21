@@ -1,0 +1,32 @@
+{
+  "expo": {
+    "name": "Fun Snake 1",
+    "slug": "Fun-Snake-1",
+    "privacy": "unlisted",
+    "sdkVersion": "26.0.0",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "primaryColor": "#cccccc",
+    "icon": "./appIcon.png",
+    "loading": {
+      "icon": "./loadingIcon.png",
+      "hideExponentText": true
+    },
+    "packagerOpts": {
+      "assetExts": [
+        "ttf",
+        "mp4",
+        "otf"
+      ]
+    },
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.codehs.762865FunSnake1",
+      "buildNumber": "1"
+    },
+    "android": {
+      "package": "com.codehs.762865FunSnake1",
+      "versionCode": 1
+    }
+  }
+}
